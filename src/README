@@ -7,7 +7,7 @@
 
 * Introduction:
 
-This MATLAB code in this directory provides the implementation of
+The MATLAB code in this directory provides the implementation of
 sparse re-weighted person re-identification from our paper 'Person
 Re-identification by Re-weighted Sparse Ranking'.  This code
 implements *ONLY* the re-identification algorithm from this paper and
