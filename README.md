@@ -3,8 +3,7 @@ This MATLAB code provides the implementation of sparse re-weighted person re-ide
 
 **G. Lisanti, I. Masi, A. D. Bagdanov, A. Del Bimbo, "Person Re-identification by Re-weighted Sparse Ranking." in IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015."**
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![ISR](/media/ISR.png)
 
 This code implements ONLY the re-identification algorithm from this paper and not descriptor extraction. In the 'data/' directory we provide pre-computed features for some re-identification datasets. For more details about the descriptor please visit the https://github.com/glisanti/WHOS.
 
