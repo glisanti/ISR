@@ -44,7 +44,7 @@ You can change the dataset and tested modality at the top of the *L1_PeopleReid_
 
 - If you get an *invalid MEX* error and you are on a NIX platform like Linux or Mac OS X, please consider starting MATLAB with the 'run_matlab.sh' script found in the SPAMS directory.
 
-If you have any problem mail both Giuseppe Lisanti (giuseppe.lisanti@unipv.it) and Iacopo Masi (iacopoma@usc.edu).
+If you have any problem mail both Giuseppe Lisanti (giuseppe[dot]lisanti[at]unipv[dot]it) and Iacopo Masi (iacopoma[at]usc[dot]edu).
 
 
 
