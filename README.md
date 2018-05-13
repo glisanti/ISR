@@ -8,14 +8,14 @@ This code implements ONLY the re-identification algorithm from this paper and n
 You will need a recent version of MATLAB and the SPAMS Sparse Modeling and Optimization package to use this code:
 http://spams-devel.gforge.inria.fr/ . 
 
-In the * spams-matlab/ * directory we provide a copy of version 2.3 of the SPAMS Sparse Modeling toolkit.
+In the *spams-matlab/* directory we provide a copy of version 2.3 of the SPAMS Sparse Modeling toolkit.
 
 We already provide a compiled version of SPAMS; in particular we provide the following MEX binary of SPAMS for:
 - Linux 64 bit arch (tested on Ubuntu 12.04)
 - Mac OS X 64 bit arch (tested on Lion and Mountain Lion)
 - WinXP 64 bit arch (tested on Windows 7 and Windows XP64)
 
-If there are any problems, please follow the directions in the * spams-matlab/ * directory for compiling and installing SPAMS. All experiments from the paper above were run on an 8 core machine, and it is suggested that you start MATLAB according to the directions in the SPAMS directory so as to take full advantage of all available cores.
+If there are any problems, please follow the directions in the *spams-matlab/* directory for compiling and installing SPAMS. All experiments from the paper above were run on an 8 core machine, and it is suggested that you start MATLAB according to the directions in the SPAMS directory so as to take full advantage of all available cores.
 
 With this code you can reproduce the results from the above paper on:
 - The VIPeR dataset (SvsS modality)
@@ -33,13 +33,13 @@ The structure of the code is the following:
 
 To run the code on one of the pre-computed datasets, start MATLAB and ensure that a working version of SPAMS is in your MATLAB path. Then go to the root of our distribution and run:
 
-* L1_PeopleReid_Demo *
+*L1_PeopleReid_Demo*
 
-You can change the dataset and tested modality at the top of the * L1_PeopleReid_Demo.m * file.
+You can change the dataset and tested modality at the top of the *L1_PeopleReid_Demo.m* file.
 
 ## Troubleshooting:
 
-- If you get an 'invalid MEX' error and you are on a NIX platform like Linux or Mac OS X, please consider starting MATLAB with the 'run_matlab.sh' script found in the SPAMS directory.
+- If you get an *invalid MEX* error and you are on a NIX platform like Linux or Mac OS X, please consider starting MATLAB with the 'run_matlab.sh' script found in the SPAMS directory.
 
 If you have any problem mail both Giuseppe Lisanti (giuseppe.lisanti@unipv.it) and Iacopo Masi (iacopoma@usc.edu).
 
