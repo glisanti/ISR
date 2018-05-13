@@ -41,9 +41,9 @@ With this code you can reproduce the results from the above paper on:
 
 The structure of the code is the following:
 - In the root are all files implementing our re-identification algorithm.
-- In the 'figure/' folder are the reference figures used in our paper.
-- In the 'data/' folder are .mat files used for precomputed features.
-- In the 'spams-matlab/' folder is SPAMS version 2.3 source and binary code.
+- In the *figure/* folder are the reference figures used in our paper.
+- In the *data/* folder are .mat files used for precomputed features.
+- In the *spams-matlab/* folder is SPAMS version 2.3 source and binary code.
 
 ## Running the demo:
 
