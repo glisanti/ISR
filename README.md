@@ -25,7 +25,7 @@ With this code you can reproduce the results from the above paper on:
 - The CAVIAR4REID dataset (SvsS, MvsM (N=5) modalities)
 
 **Please cite our paper if you use this descriptor:**
-> @ARTICLE{LisantiPAMI14,\
+> @ARTICLE{LisantiTPAMI15,\
 >  author={Lisanti, G. and Masi, I. and Bagdanov, A. and Del Bimbo, A.},\
 >  journal={Pattern Analysis and Machine Intelligence, IEEE Transactions on},\
 >  title={Person Re-identification by Iterative Re-weighted Sparse Ranking},\
