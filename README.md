@@ -24,6 +24,19 @@ With this code you can reproduce the results from the above paper on:
 - The VIPeR dataset (SvsS modality)
 - (SvsS, MvsM (N=5) modalities
 
+**Please cite our paper if you use this descriptor:**
+> @ARTICLE{LisantiPAMI14,\
+>  author={Lisanti, G. and Masi, I. and Bagdanov, A. and Del Bimbo, A.},\
+>  journal={Pattern Analysis and Machine Intelligence, IEEE Transactions on},\
+>  title={Person Re-identification by Iterative Re-weighted Sparse Ranking},\
+>  year={2014},\
+>  volume={PP},\
+>  number={99},\
+>  pages={1-1},\
+>  doi={10.1109/TPAMI.2014.2369055},\
+>  ISSN={0162-8828}\
+>}
+
 ## Organization of the demo distribution:
 
 The structure of the code is the following:
