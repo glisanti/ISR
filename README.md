@@ -3,7 +3,7 @@ This MATLAB code provides the implementation of sparse re-weighted person re-ide
 
 "G. Lisanti, I. Masi, A. D. Bagdanov, A. Del Bimbo, "Person Re-identification by Re-weighted Sparse Ranking." in IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015."
 
-This code implements *ONLY* the re-identification algorithm from this paper and not descriptor extraction. In the 'data/' directory we provide pre-computed features for some re-identification datasets. For more details about the descriptor please visit the https://github.com/glisanti/WHOS.
+This code implements ONLY the re-identification algorithm from this paper and not descriptor extraction. In the 'data/' directory we provide pre-computed features for some re-identification datasets. For more details about the descriptor please visit the https://github.com/glisanti/WHOS.
 
 You will need a recent version of MATLAB and the SPAMS Sparse Modeling and Optimization package to use this code:
 http://spams-devel.gforge.inria.fr/ . 
@@ -39,7 +39,7 @@ You can change the dataset and tested modality at the top of the 'L1_PeopleReid_
 
 Troubleshooting:
 
-If you get an 'invalid MEX' error and you are on a *NIX platform like Linux or Mac OS X, please consider starting MATLAB with the 'run_matlab.sh' script found in the SPAMS directory.
+If you get an 'invalid MEX' error and you are on a NIX platform like Linux or Mac OS X, please consider starting MATLAB with the 'run_matlab.sh' script found in the SPAMS directory.
 
 If you have any problem mail both Giuseppe Lisanti (giuseppe.lisanti@unipv.it) and Iacopo Masi (iacopoma@usc.edu).
 
