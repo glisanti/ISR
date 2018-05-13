@@ -33,7 +33,8 @@ the directions in the SPAMS directory so as to take full advantage of
 all available cores.
 
 If you use this code please cite the following paper:
-G. Lisanti, I. Masi, A. D. Bagdanov, A. Del Bimbo, "Person Re-identification by Re-weighted Sparse Ranking." in IEEE Transactions on Pattern Analysis and Machine Intelligence, 2014 (to appear).
+G. Lisanti, I. Masi, A. D. Bagdanov, A. Del Bimbo, "Person Re-identification by Re-weighted Sparse Ranking." 
+in IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015.
 
 With this code you can reproduce the results from the above paper on:
  - The VIPeR dataset (SvsS modality)
