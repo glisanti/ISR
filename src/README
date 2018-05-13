@@ -64,8 +64,8 @@ If you get an 'invalid MEX' error and you are on a *NIX platform like
 Linux or Mac OS X, please consider starting MATLAB with the
 'run_matlab.sh' script found in the SPAMS directory.
 
-If you have any problem mail BOTH <giuseppe.lisanti@unifi.it> and Iacopo
-Masi <iacopo.masi@unifi.it>.
+If you have any problem mail BOTH <giuseppe.lisanti@unpiv.it> and Iacopo
+Masi <iacopoma@usc.edu>.
 
 * Changelog:
   25/01/2013: 1.0.1 Running in all platforms.
