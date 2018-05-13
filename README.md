@@ -35,9 +35,9 @@ The structure of the code is the following:
 ## Running the demo:
 
 To run the code on one of the pre-computed datasets, start MATLAB and ensure that a working version of SPAMS is in your MATLAB path. Then go to the root of our distribution and run:
-
-*L1_PeopleReid_Demo*
-
+```
+L1_PeopleReid_Demo
+```
 You can change the dataset and tested modality at the top of the *L1_PeopleReid_Demo.m* file.
 
 ## Troubleshooting:
