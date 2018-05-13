@@ -5,9 +5,10 @@ This MATLAB code provides the implementation of sparse re-weighted person re-ide
 
 ![ISR](/media/ISR.png)
 
-This code implements ONLY the re-identification algorithm from this paper and not descriptor extraction. In the 'data/' directory we provide pre-computed features for some re-identification datasets. For more details about the descriptor please visit the https://github.com/glisanti/WHOS.
+This code implements ONLY the re-identification algorithm from this paper and not descriptor extraction. In the *data/* directory we provide pre-computed features for some re-identification datasets. 
+For more details about the descriptor please visit the https://github.com/glisanti/WHOS.
 
-You will need a recent version of MATLAB and the SPAMS Sparse Modeling and Optimization package to use this code:
+You will need a recent version of MATLAB and the Sparse Modeling and Optimization (SPAMS) package to use this code:
 http://spams-devel.gforge.inria.fr/ . 
 
 In the *spams-matlab/* directory we provide a copy of version 2.3 of the SPAMS Sparse Modeling toolkit.
