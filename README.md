@@ -22,7 +22,7 @@ If there are any problems, please follow the directions in the *spams-matlab/* d
 
 With this code you can reproduce the results from the above paper on:
 - The VIPeR dataset (SvsS modality)
-- (SvsS, MvsM (N=5) modalities
+- The CAVIAR4REID dataset (SvsS, MvsM (N=5) modalities)
 
 **Please cite our paper if you use this descriptor:**
 > @ARTICLE{LisantiPAMI14,\
