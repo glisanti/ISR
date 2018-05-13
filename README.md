@@ -21,7 +21,7 @@ With this code you can reproduce the results from the above paper on:
 - The VIPeR dataset (SvsS modality)
 - (SvsS, MvsM (N=5) modalities
 
-Organization of the demo distribution:
+##Organization of the demo distribution:
 
 The structure of the code is the following:
 - In the root are all files implementing our re-identification algorithm.
@@ -29,7 +29,7 @@ The structure of the code is the following:
 - In the 'data/' folder are .mat files used for precomputed features.
 - In the 'spams-matlab/' folder is SPAMS version 2.3 source and binary code.
 
-Running the demo:
+##Running the demo:
 
 To run the code on one of the pre-computed datasets, start MATLAB and ensure that a working version of SPAMS is in your MATLAB path. Then go to the root of our distribution and run:
 
@@ -37,9 +37,9 @@ L1_PeopleReid_Demo
 
 You can change the dataset and tested modality at the top of the 'L1_PeopleReid_Demo.m' file.
 
-Troubleshooting:
+##Troubleshooting:
 
-If you get an 'invalid MEX' error and you are on a NIX platform like Linux or Mac OS X, please consider starting MATLAB with the 'run_matlab.sh' script found in the SPAMS directory.
+- If you get an 'invalid MEX' error and you are on a NIX platform like Linux or Mac OS X, please consider starting MATLAB with the 'run_matlab.sh' script found in the SPAMS directory.
 
 If you have any problem mail both Giuseppe Lisanti (giuseppe.lisanti@unipv.it) and Iacopo Masi (iacopoma@usc.edu).
 
