@@ -1,7 +1,7 @@
 # ISR
 This MATLAB code provides the implementation of sparse re-weighted person re-identification from our paper:
 
-**G. Lisanti, I. Masi, A. D. Bagdanov, A. Del Bimbo, "Person Re-identification by Re-weighted Sparse Ranking." in IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015."**
+**G. Lisanti, I. Masi, A. D. Bagdanov, A. Del Bimbo, "Person Re-identification by Iterative Re-weighted Sparse Ranking." in IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015."**
 
 ![ISR](/media/ISR.png)
 
